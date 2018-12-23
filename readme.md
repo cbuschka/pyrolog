@@ -1,4 +1,4 @@
-# pyrolog
+# pyrolog (PYthon ROtating LOGger)
 
 ### python3 based stream reader writing to rotated log files
 
